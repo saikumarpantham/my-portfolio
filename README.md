@@ -1,6 +1,6 @@
 # saikumarpantham.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://github.com/saikumarpantham/Resume.git).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://github.com/saikumarpantham/My-Portfolio/blob/main/index.html).
 
 
 
